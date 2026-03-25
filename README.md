@@ -1,10 +1,10 @@
-# 📊 EDA 보고서 — Blood Transfusion Service Center 데이터 분석
+#  EDA 보고서 — Blood Transfusion Service Center 데이터 분석
 
 > **데이터관리론 3월 과제** | 2555031 이지원 | 2026.03.23
 
 ---
 
-## 📌 프로젝트 개요
+##  프로젝트 개요
 
 대만 신주시 헌혈 서비스 센터(Blood Transfusion Service Center)의 RFMTC 데이터셋(748건)을 활용하여 **탐색적 데이터 분석(EDA)**을 수행한 과제입니다.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📁 파일 구성
+##  파일 구성
 
 | 파일명 | 설명 |
 |--------|------|
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 데이터셋 정보
+##  데이터셋 정보
 
 - **출처**: [OpenML (ID: 1464)](https://www.openml.org/d/1464) / UCI Machine Learning Repository
 - **원본 논문**: Yeh et al. (2008), *Knowledge discovery on RFM model using Bernoulli sequence*
@@ -40,7 +40,7 @@
 
 ---
 
-## 🔍 분석 목차
+##  분석 목차
 
 ### 1. 서론
 - 분석 배경 및 목적 (혈액 공급망 JIT 관점)
@@ -83,7 +83,7 @@
 
 ---
 
-## 🚀 실행 방법
+##  실행 방법
 
 1. `EDA_혈액헌혈_코랩코드.ipynb` 파일을 Google Colab에서 열기
 2. 런타임 → 모두 실행 (`Ctrl + F9`)
@@ -91,7 +91,7 @@
 
 ---
 
-## 📝 참고사항
+##  참고사항
 
 - 본 보고서는 **데이터관리론** 수업 과제로 작성되었습니다.
 - EDA 단계이므로 인과관계가 아닌 **상관관계** 분석에 해당합니다.
